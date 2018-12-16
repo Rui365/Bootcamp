@@ -1,0 +1,4 @@
+Resource for git:
+https://betterexplained.com/articles/a-visual-guide-to-version-control/
+https://betterexplained.com/articles/intro-to-distributed-version-control-illustrated/
+https://betterexplained.com/articles/aha-moments-when-learning-git/
